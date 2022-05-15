@@ -1,39 +1,119 @@
------BEGIN OPENSSH PRIVATE KEY-----
-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
-jjf5PgrVyUqzosNWXs/LKAmi/7c=
------END OPENSSH PRIVATE KEY-----
+
+'''
+Tic-Tac-Toe game
+CSE 210 Solo Code Assignment Week 02
+Author: Reace Ian Roeloffze
+'''
+
+# Create a dictionary for the game board.
+game_board = {
+    '1': '1',
+    '2': '2',
+    '3': '3',
+    '4': '4',
+    '5': '5',
+    '6': '6',
+    '7': '7',
+    '8': '8',
+    '9': '9'
+}
+
+# Create a list of the dictionary keys to be used when selecting
+# a space to fill.
+board_keys = [key for key in game_board]
+
+def main():
+    
+    # Print intro message and game menu:
+    print ('\nWelcome to Tic-Tac-Toe! Please choose an option:')
+    print ('\n1. Play Game')
+    print ('2. Quit')
+    
+    while True:
+        choice = input('\n1 or 2? ')
+    
+        if choice == '1':
+            
+            player = "\033[35;1mX\033[0m"
+            count = 0
+            
+            # Loop through the game eliminating invalid inputs.
+            while count < 9:
+                display_game_board(game_board)
+                player_move = input('\nPlease mark your position on a numbered square: ')
+                
+                # Display an error message if incorrect values are input and prompt a retry.
+                if not player_move in('1', '2', '3', '4', '5', '6', '7', '8', '9'):
+                    print("Invalid entry. Please enter a number from 1 to 9.")
+                    continue
+                else:
+                    if game_board[player_move] in ('1', '2', '3', '4', '5', '6', '7', '8', '9'):
+                        game_board[player_move] = player
+                        count += 1
+                    else:
+                        print ('This space is already occupied. Please fill an unoccupied space. ')
+                        continue
+
+                # Set a condtion to verify inputs to determine a winner or if it's a tie.
+                if count >= 5:
+                    if (game_board['1'] == game_board['2'] == game_board['3'] != ' ') or \
+                            (game_board['4'] == game_board['5'] == game_board['6'] != ' ') or \
+                            (game_board['7'] == game_board['8'] == game_board['9'] != ' ') or \
+                            (game_board['1'] == game_board['4'] == game_board['7'] != ' ') or \
+                            (game_board['2'] == game_board['5'] == game_board['8'] != ' ') or \
+                            (game_board['3'] == game_board['6'] == game_board['9'] != ' ') or \
+                            (game_board['1'] == game_board['5'] == game_board['9'] != ' ') or \
+                            (game_board['3'] == game_board['5'] == game_board['7'] != ' '):
+                        display_game_board(game_board)
+                        print(f'\nCongratulations, {player}! You won!')
+                        break
+
+                if count == 9:
+                    display_game_board(game_board)
+                    print("\nIt's a tie!")
+
+                if player == '\033[35;1mX\033[0m':
+                    player = '\033[33;1mO\033[0m'
+                else:
+                    player = '\033[35;1mX\033[0m'
+
+            # Choose to restart the game or quit.
+            restart = input('Would you like to play again? (Y/N) \n').upper()
+            if restart == "Y":
+                for key in game_board:
+                    game_board[key] = " "
+                main()
+            
+            elif restart == 'N':
+                break
+            else:
+                print ('\nInvalid input.')
+            
+        elif choice == '2':
+            break
+        
+        else:
+            print ('\nInvalid option.')
+            
+    print ('\nThank you for playing!')
+        
+def display_game_board(board):
+    '''
+    Displays a game board for the game
+    tic-tac-toe.
+    
+    Parameters:
+        board:
+            The game board to be displayed.
+    '''
+    # Create a dictionary for the game board.
+    
+    print (f"\n{board['1']} | {board['2']} | {board['3']} ")
+    print ('- + - + -')
+    print (f"{board['4']} | {board['5']} | {board['6']} ")
+    print ('- + - + -')
+    print (f"{board['7']} | {board['8']} | {board['9']} ")
+
+if __name__ == '__main__':
+    main()
+
